@@ -25,7 +25,7 @@ Follow these steps to set up the API in your local development environment:
    ```
 3. Install the required dependencies:
    ```bash
-   python install -r requirements.txt
+   pip install -r requirements.txt
    ```
 4. Run the migrations to create the database schema:
    ```bash
